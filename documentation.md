@@ -1,4 +1,4 @@
-﻿# Documentação do Processo de Criação de um PyLadies Regional
+# Documentação do Processo de Criação de um PyLadies Regional
 
 [**O que é o grupo PyLadies?**](http://brasil.pyladies.com/about/)
 
